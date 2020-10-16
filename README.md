@@ -7,4 +7,5 @@ To download, simply do
 ```
 cd ~
 wget https://raw.githubusercontent.com/Symmetries/default-files/master/.vimrc
+wget https://raw.githubusercontent.com/Symmetries/default-files/master/.bashrc
 ```
